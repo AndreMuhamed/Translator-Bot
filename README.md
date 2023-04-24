@@ -9,3 +9,5 @@ Note that this code only supports translating to the default language, but you c
 Before running the bot, you'll need to replace TOKEN with your bot's token, which you can obtain from the Discord Developer Portal. You'll also need to install the discord and googletrans libraries using pip.
 
 I hope this helps! Let me know if you have any questions.
+
+I am not responsible for the functionality of the bot
