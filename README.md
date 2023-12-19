@@ -1,5 +1,5 @@
 # Translator-Bot
-Bot translator. This bot can translate messages on the server into other languages. It can use the Google Translate API  пкцпцпцпцп
+Bot translator. This bot can translate messages on the server into other languages. It can use the Google Translate API  пкцпцпцпцппуцпуцппуцпуц
 цпуцупуцуцпп
 ![images](https://user-images.githubusercontent.com/128980327/234071736-ee87ac44-ca85-4b33-9c05-492e02223af5.png)
 
